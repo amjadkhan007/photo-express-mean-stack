@@ -1,0 +1,9 @@
+.album-img-name a:link {
+	text-decoration: none;
+	color: #222;
+}
+
+.album-img-name a:hover {
+	text-decoration: none;
+	color: #777;
+}
